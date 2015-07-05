@@ -1,0 +1,13 @@
+Here is a challenge for you Dimitri build a fully functional Porfolio website. 
+
+It needs to be responsive in design and mobile friendly as well. 
+It should have links for your work, contact information, contact form, and links to other websites that you publish your works
+It should be in a zip folder for comparison 
+It should have a domain name and web ready
+  Domain names can be free, usually prefer .tk since it gives your site somewhat of a more professional domain name. 
+  Freenom is a great place to create an account and secure the domain name for your portfolio site. 
+Use HTML5 and CSS3 standards
+  Feel free to try to use Bootstrap if you can. 
+
+Email me the zip folder and you should put a deadline on this project for one week. If you can feel free to contact me if you have
+any questions. 
